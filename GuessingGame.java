@@ -17,7 +17,7 @@ public class GuessingGame {
 		System.out.println("Gotta bring that number up your number was too low ");
 		}
 	else
-		System.out.println("Woah you got too much dip in your chip the number is too high ");	
+		System.out.println("Slow down there that number is too high ");	
 	}
 }
 	
