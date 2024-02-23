@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>My College Journey</title>
+    <style>
+        body {
+            font-family: 'Times New Roman', Times, serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f2f2;
+        }
+        .container {
+        max-width: 1000px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+        }
+        h1, h2 {
+            border: 3px solid rgb(3, 0, 0);
+            border-radius: 15px;
+            color: #333;
+            text-align: center;
+        }
+        p {
+            line-height: 2.5;
+        }
+        .section {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>My College Journey</h1>
+    <div class="section">
+        <h2>Introduction</h2>
+        <p>My college journey began in 2021 when I enrolled in Georgia Southern University. It was an exciting time filled with anticipation and new experiences. I even felt a bit nervous coming in due to it being a real change of
+            pace compared to high school, but it was something that I knew I will be able to get through. Im glad I continued to pursue further education. Over the period of my first semster of college things started to click, and 
+            I started to get into the groove of things. I am thankful for my college years. Without it I wouldn't have been able to meet all the people that I did while I was there.
+        </p>
+    </div>
+    <div class="section">
+        <h2>Academic Pursuits</h2>
+        <p>During my time at Georgia Southern University, I pursued a degree in Computer Science. Some of the courses I took which helped me develop afoundation in my field of study were: Programming Principles I and II, and Survey Of Programming Languages.
+        
+        </p>
+    </div>
+    <div class="section">
+        <h2>Extracurricular</h2>
+        <p>
+        While in college I was apart of three organizations. The first being Geeks 'N' Gamers I joined this club my freshman year during my first smester. A year and half later I became the Treasurer for the Organization. 
+        The next organization that I joined was the Insitute of Electrical Electronics Engineers (IEEE). I joined IEEE in my sophmore year of college, and the main 
+        thing that we had did that year was a sumo robot competition. This was really fun and my first introduction to C++, and various different sensors such as infared, and ultrasonics. It was really cool and such a different experience for me.
+        I then became the robotics lead for the organization, and lead team to compete in the IEEE SoutheastCon. This was a really challenging experience and was filled with situations that we had to overcome.
+        In my spring semster of junior year I also joined the Association for Computing Machinery where I continued developing my programming skills.
+        </p>
+    </div>
+</div>
+</body>
+</html>
